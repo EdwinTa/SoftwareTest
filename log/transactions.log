@@ -1,0 +1,9 @@
+2018-12-28 18:05:14,521 - transaction - INFO - account:1234   action:withdraw    amount:368.0   interest:18.400000000000002
+2018-12-28 18:05:24,347 - transaction - INFO - account:1234   action:withdraw    amount:4000.0   interest:200.0
+2018-12-28 18:06:25,630 - transaction - INFO - account:1234   action:withdraw    amount:1.0   interest:0.05
+2018-12-28 18:06:30,413 - transaction - INFO - account:1234   action:withdraw    amount:0.0   interest:0.0
+2018-12-29 10:43:05,194 - transaction - INFO - account:1234   action:repay    amount:10000.0   interest:0.0
+2018-12-29 10:43:12,988 - transaction - INFO - account:1234   action:repay    amount:1.0   interest:0.0
+2018-12-29 10:43:26,145 - transaction - INFO - account:1234   action:repay    amount:0.0   interest:0.0
+2018-12-29 10:45:32,072 - transaction - INFO - account:1234   action:repay    amount:1000.0   interest:0.0
+2018-12-29 10:45:59,679 - transaction - INFO - account:1234   action:withdraw    amount:10000.0   interest:500.0
