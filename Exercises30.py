@@ -8,8 +8,8 @@
 '''
 
 weeklist = {'M': 'Monday','T': {'u': 'Tuesday','h':'Thursday'}, 'W': 'Wednesday', 'F':'Friday','S':{'a':'Saturday','u':'Sunday'}}
-sLetter1 = input("请输入首字母：")
-sLetter1 = sLetter1.upper()
+sLetter1 = input("请输入首字母：").upper()
+
 
 if (sLetter1 in ['T','S']):
     sLetter2 = input("请输入第二个字母：")

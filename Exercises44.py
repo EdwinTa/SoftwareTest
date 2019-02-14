@@ -14,3 +14,12 @@ t=a
 a=b
 b=t
 print(a,b)
+
+
+a=int(input("input_str1:"))
+b=int(input("input_str2:"))
+a=a+b
+b=a-b
+a=a-b
+
+print(a,b)

@@ -2,6 +2,9 @@
 # __author: Jason
 # Date: 2018/12/20
 
+'''
+根据给出的区间输出素数
+'''
 
 lower = int(input("输入区间最小值: "))
 upper = int(input("输入区间最大值: "))
