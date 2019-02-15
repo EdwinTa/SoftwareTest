@@ -20,3 +20,4 @@ for h, t in hwnd_title.items():
     if t is not "":
         print(h, t)
 
+print("完成")
